@@ -1,2 +1,3 @@
-# html-css-lesson-2-module-1
- A doua lectie de HTML si CSS, tag-uri HTML
+# Fullstack GoIT
+
+## Lecția 2. Modulul 1. Elementele de bază ale HTML  - Teorie
